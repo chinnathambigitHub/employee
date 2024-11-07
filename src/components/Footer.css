@@ -1,0 +1,72 @@
+
+.con {
+    width: 100%;
+    background-color: #333;
+    color:white;
+    padding: 20px;
+    font-size: 15px;
+  }
+  
+  .con1 {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .con4, .con5, .Con5 {
+    flex: 1;
+    min-width: 200px;
+    
+  }
+  
+  h4 {
+    font-size: 1.2em;
+    margin-bottom: 15px;
+  }
+  
+  a {
+
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  a p {
+    margin: 5px 0;
+    transition: color 0.3s ease;
+  }
+  
+  a p:hover {
+    color: #ccc;
+  }
+  
+  .Lin {
+    display: flex;
+    gap: 15px;
+    margin-right: 300px;
+    justify-content: center;
+  }
+  
+  .Lin svg {
+    font-size: 1.5em;
+    transition: color 0.3s ease;
+  }
+  
+  .Lin svg:hover {
+    color: #ccc;
+  }
+  
+  hr {
+    border: 0.5px solid #555;
+    margin: 20px 0;
+  }
+  
+  .below {
+    padding: 10px 0;
+  }
+  
+  .copright p {
+    text-align: center;
+    margin: 0;
+    font-size: 0.9em;
+    color: #aaa;
+  }
+  
